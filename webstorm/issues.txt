@@ -1,5 +1,0 @@
-Problem:
-Webstorm points to "Duplicate Identifier" in some Modules and Components decorators:
-
-Solution:
-Deactivate Angular Language Service
